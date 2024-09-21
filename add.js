@@ -2,4 +2,7 @@ function add(a, b) {
     return a + b
 }
 
-console.log(add(4, 5))
+
+console.log(4, 3)
+
+console.log(1, 2)
